@@ -1,0 +1,16 @@
+mybatis:
+  #\u6307\u5B9AMybatis\u7684Mapper\u6587\u4EF6
+  mapper-locations: classpath:mappers/*xml
+  #\u6307\u5B9AMybatis\u7684\u5B9E\u4F53\u76EE\u5F55
+  type-aliases-package: com.ljc.springbootdemo7.bean
+
+#\u6570\u636E\u5E93\u8FDE\u63A5\u4FE1\u606F
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/demo1?characterEncoding=utf-8
+      username: root
+      password: 123456
+
+

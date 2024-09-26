@@ -1,0 +1,17 @@
+2024-09-01 10:01:03.973  INFO 31272 --- [http-nio-83-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-01 10:01:03.976  INFO 31272 --- [http-nio-83-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-01 10:01:03.977  INFO 31272 --- [http-nio-83-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-09-01 10:01:03.990 DEBUG 31272 --- [http-nio-83-exec-1] c.l.s.controller.HelloController         : debug...日志
+2024-09-01 10:01:03.990  INFO 31272 --- [http-nio-83-exec-1] c.l.s.controller.HelloController         : info...日志
+2024-09-01 10:01:03.991  WARN 31272 --- [http-nio-83-exec-1] c.l.s.controller.HelloController         : warn...日志
+2024-09-01 10:01:03.991 ERROR 31272 --- [http-nio-83-exec-1] c.l.s.controller.HelloController         : error...日志
+2024-09-01 10:01:05.279 DEBUG 31272 --- [http-nio-83-exec-4] c.l.s.controller.HelloController         : debug...日志
+2024-09-01 10:01:05.281  INFO 31272 --- [http-nio-83-exec-4] c.l.s.controller.HelloController         : info...日志
+2024-09-01 10:01:05.281  WARN 31272 --- [http-nio-83-exec-4] c.l.s.controller.HelloController         : warn...日志
+2024-09-01 10:01:05.281 ERROR 31272 --- [http-nio-83-exec-4] c.l.s.controller.HelloController         : error...日志
+2024-09-01 10:01:05.657 DEBUG 31272 --- [http-nio-83-exec-7] c.l.s.controller.HelloController         : debug...日志
+2024-09-01 10:01:05.657  INFO 31272 --- [http-nio-83-exec-7] c.l.s.controller.HelloController         : info...日志
+2024-09-01 10:01:05.659  WARN 31272 --- [http-nio-83-exec-7] c.l.s.controller.HelloController         : warn...日志
+2024-09-01 10:01:05.659 ERROR 31272 --- [http-nio-83-exec-7] c.l.s.controller.HelloController         : error...日志
+2024-09-01 10:01:06.111 DEBUG 31272 --- [http-nio-83-exec-2] c.l.s.controller.HelloController         : debug...日志
+2024-09-01 10:01:06.112  INFO 31272 --- [http-nio-83-exec-2] c.l.s.controller.HelloController         : info...日志

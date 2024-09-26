@@ -1,0 +1,8 @@
+server:
+  port: 8082
+
+
+memcached:
+  servers: 192.168.221.129:11211
+  poolSize: 10
+  opTimeOut: 5000

@@ -1,0 +1,14 @@
+spring:
+  redis:
+    port: 6379
+    host: 192.168.221.129
+    password: root
+  cache:
+    type: redis
+    redis:
+      use-key-prefix: false
+      key-prefix:
+      cache-null-values: true
+      time-to-live: 20s
+server:
+  port: 8082

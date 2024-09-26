@@ -1,0 +1,6 @@
+server:
+  port: 81
+spring:
+  config:
+    activate:
+      on-profile: dev

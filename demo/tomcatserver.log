@@ -1,0 +1,17 @@
+2024-09-01 10:01:13.720  WARN 31272 --- [http-nio-83-exec-9] c.l.s.controller.HelloController         : warn...日志
+2024-09-01 10:01:13.721 ERROR 31272 --- [http-nio-83-exec-9] c.l.s.controller.HelloController         : error...日志
+2024-09-01 10:01:14.075 DEBUG 31272 --- [http-nio-83-exec-10] c.l.s.controller.HelloController         : debug...日志
+2024-09-01 10:01:14.076  INFO 31272 --- [http-nio-83-exec-10] c.l.s.controller.HelloController         : info...日志
+2024-09-01 10:01:14.076  WARN 31272 --- [http-nio-83-exec-10] c.l.s.controller.HelloController         : warn...日志
+2024-09-01 10:01:14.078 ERROR 31272 --- [http-nio-83-exec-10] c.l.s.controller.HelloController         : error...日志
+2024-09-01 10:49:24.530  INFO 6616 --- [main] c.l.s.SpringbootDemo8Application         : Starting SpringbootDemo8Application using Java 1.8.0_181 on LJC-HP with PID 6616 (C:\Users\LJC\Desktop\Java\springboot-demo\springboot-demo8\target\classes started by LJC in C:\Users\LJC\Desktop\Java\springboot-demo\demo)
+2024-09-01 10:49:24.531  INFO 6616 --- [main] c.l.s.SpringbootDemo8Application         : The following 1 profile is active: "test"
+2024-09-01 10:49:25.017  INFO 6616 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 83 (http)
+2024-09-01 10:49:25.017  INFO 6616 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.33] using APR version [1.7.0].
+2024-09-01 10:49:25.017  INFO 6616 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-01 10:49:25.017  INFO 6616 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-01 10:49:25.020  INFO 6616 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1o  3 May 2022]
+2024-09-01 10:49:25.094  INFO 6616 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 535 ms
+2024-09-01 10:49:25.212  INFO 6616 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-09-01 10:49:25.267  INFO 6616 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 83 (http) with context path ''
+2024-09-01 10:49:25.274  INFO 6616 --- [main] c.l.s.SpringbootDemo8Application         : Started SpringbootDemo8Application in 1.013 seconds (JVM running for 1.475)

@@ -1,0 +1,6 @@
+userinfo:
+  userid: 100
+  address: wuhan
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver

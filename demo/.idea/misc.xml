@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo4/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo5/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo6/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo7/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo8/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demo9/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo9/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo10/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo11/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo12/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo13/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo14/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo15/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo16/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo17-adminserver/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo18-adminclient/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demo9/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

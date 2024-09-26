@@ -1,0 +1,19 @@
+logging:
+  group:
+    mygroup: com.ljc.springbootdemo8.controller
+  level:
+    root: info
+    mygroup: debug
+  file:
+    name: tomcatserver.log
+  logback:
+    rollingpolicy:
+      max-file-size: 2KB
+      file-name-pattern: server.%d{yyyy-MM-dd}.%i.log
+
+
+server:
+  port: 80
+spring:
+  profiles:
+    active: test
